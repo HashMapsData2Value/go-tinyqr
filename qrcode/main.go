@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	qrcode "github.com/xi/go-tinyqr"
+	qrcode "github.com/hashmapsdata2value/go-tinyqr"
 )
 
 func main() {
